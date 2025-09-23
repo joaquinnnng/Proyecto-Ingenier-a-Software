@@ -1,1 +1,2 @@
-# Proyecto-Ingenier-a-Software
+# Proyecto Ingenieria de Software
+Integrantes:
