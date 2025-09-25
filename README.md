@@ -1,5 +1,9 @@
 # Proyecto Ingenieria de Software
 Integrantes:
+| Nombre | GitHub | Matrícula |
+|--------|--------|-----------|
+| Vicente Ignacio Miranda Gómez | [@VicenteM32](https://github.com/VicenteM32) | 2023412848 |
+| Eduardo Alfonso Mora Hernández | [@Eddomora](https://github.com/Eddomora) | 2023403989 |
 
 
 # Diagrama de Caso de uso
