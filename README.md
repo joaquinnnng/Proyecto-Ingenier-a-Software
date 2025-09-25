@@ -7,4 +7,9 @@ Integrantes:
 
 
 # Diagrama de Caso de uso
-![image](https://github.com/joaquinnnng/Proyecto-Ingenier-a-Software/blob/main/Screenshot%202025-09-23%20184655.png)
+![image](https://github.com/joaquinnnng/Proyecto-Ingenier-a-Software/blob/main/Diagrama%20Caso%20de%20Uso.png)
+
+# Diagrama de Clases
+![image](https://github.com/joaquinnnng/Proyecto-Ingenier-a-Software/blob/main/Diagrama%20de%20Clases.png)
+
+
